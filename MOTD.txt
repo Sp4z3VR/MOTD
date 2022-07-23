@@ -3,3 +3,4 @@ There is now a Playerlist and the practice has been extended so Far so enjoy it 
 We are trying to maintain the volcano so we are extracting lava from it!
 The second floor in the shop is now being made!
 uploading a patch for practice soon!
+A patch is rolling out rn
